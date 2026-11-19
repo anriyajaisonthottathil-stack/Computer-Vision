@@ -1,0 +1,4 @@
+image,object,confidence,width_pixels,height_pixels,bounding_box_area_pixels,width_cm_if_calibrated,height_cm_if_calibrated
+image.png,person,0.9171,137.52,321.55,44219.73,,
+image.png,person,0.9126,79.32,298.84,23705.15,,
+image.png,dog,0.7318,63.5,122.46,7775.99,,
